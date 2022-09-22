@@ -78,7 +78,7 @@ I would test the the means of the safety ratings from a sample of MechaCar's veh
 
 The null hypothesis of the test is that there's no statistical difference between the two observed sample means - between the safety ratings of MechaCar and those of the Competitor being tested. The alternative hypothesis is that there is a statistical difference between the two observed sample means - that there *is* a statistical difference between the safety ratings of MechaCar and its Competitor. 
 
-The two-sample t-test is designed to determine whether the means of two samples are statistically different. Running this test between MechaCar and each of its competitors on Safety Ratings will tell us if there is a significant, statistical difference in safety ratings between MechaCar and any of the Competitors. If so, further testing and visualization can be run to exampine each difference.
+The two-sample t-test is designed to determine whether the means of two samples are statistically different. Running this test between MechaCar and each of its competitors on Safety Ratings will tell us if there is a significant, statistical difference in safety ratings between MechaCar and any of the Competitors. If so, further testing and visualization can be run to examine each difference.
 
 Each time we run this test, we need a reasonably large, randomly-selected, normally-distributed sample dataset from both MechaCar and its Competitor that contains information on the variable we're testing - in this initial case, safety rating. Safety rating - and any variable tested - should be continuous, numeric data. 
 
